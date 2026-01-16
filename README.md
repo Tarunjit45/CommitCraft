@@ -10,7 +10,7 @@ Tired of writing commit messages? Let AI do it for you! `CommitCraft` reads your
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Tarunnjit45/CommitCraft.git
+    git clone https://github.com/Tarunjit45/CommitCraft.git
     cd CommitCraft
     ```
 2.  **Create and activate a Python virtual environment:**
